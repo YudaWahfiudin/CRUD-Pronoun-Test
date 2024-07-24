@@ -10,7 +10,7 @@ This application is a Pronoun Test app designed to help users practice and impro
 
 2. Firebase Integration:
 * Realtime Database: Stores the questions, including text, image URLs, and audio URLs.
-* Firebase Auth: Manages user authentication for login and registration.
+* Firebase Auth: Manages user authentication for login.
 * Firebase Storage: Stores images and audio recordings associated with the questions.
      
 **Technologies Used**
