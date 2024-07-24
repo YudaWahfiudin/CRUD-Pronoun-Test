@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "987088870417",
+    "firebase_url": "https://pronoun-test-unity-ab522-default-rtdb.firebaseio.com",
+    "project_id": "pronoun-test-unity-ab522",
+    "storage_bucket": "pronoun-test-unity-ab522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987088870417:android:1d583d85f298582f81a5b0",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PronounTest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOEA1zZwbCwPB-wpC2RTJ5RIrCJvX1d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987088870417:android:b0ca8f76a290d2aa81a5b0",
+        "android_client_info": {
+          "package_name": "com.bismillah.pronountest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOEA1zZwbCwPB-wpC2RTJ5RIrCJvX1d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

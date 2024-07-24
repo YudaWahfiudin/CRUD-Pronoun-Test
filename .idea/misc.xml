@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.135" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/drawable/ic_baseline_admin_panel_settings_24.xml" value="0.135" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.135" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.135" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.135" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/drawable/ripple_effect.xml" value="0.2205" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout-w936dp/activity_login.xml" value="0.190625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_crud.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_crudactivity.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_edit_soal_ch_four.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_edit_soal_ch_one.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_edit_soal_ch_three.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_edit_soal_ch_two.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_list_soal_ch_four.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_list_soal_ch_one.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_list_soal_ch_three.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_list_soal_ch_two.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_login_admin.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_login_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_register_admin.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_register_user.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_save_recording.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_soal_ch_four.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_soal_ch_one.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_soal_ch_school.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_soal_ch_three.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_soal_ch_two.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_tambah_soal_ch_four.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_tambah_soal_ch_one.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_tambah_soal_ch_three.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_tambah_soal_ch_two.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/activity_tes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/edit_soal_ch_one.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/edit_soal_ch_school.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/list_soal_ch_four.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/list_soal_ch_one.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/list_soal_ch_school.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/list_soal_ch_three.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/list_soal_ch_two.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/ripple_effect.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/tambah_soal_ch_one.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/PronounTest/app/src/main/res/layout/tambah_soal_ch_school.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
