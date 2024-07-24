@@ -1,5 +1,6 @@
 # CRUD Pronoun Test
 This application is a Pronoun Test app designed to help users practice and improve their knowledge of pronouns. It utilizes Firebase services to manage data, authentication, and media storage.
+
 **Features**  
   1. CRUD Operations for Pronoun Questions:
     * Create: Add new pronoun questions along with associated images and audio recordings.
@@ -10,12 +11,14 @@ This application is a Pronoun Test app designed to help users practice and impro
     * Realtime Database: Stores the questions, including text, image URLs, and audio URLs.
     * Firebase Auth: Manages user authentication for login and registration.
     * Firebase Storage: Stores images and audio recordings associated with the questions.
+     
 **Technologies Used**
   * Firebase Realtime Database: For storing and retrieving questions and associated data.
   * Firebase Authentication: For user login and registration.
   * Firebase Storage: For storing images and audio recordings.
   * Android Studio: For developing the Android application.
   * Java: For application development.
+    
 **Screenshots**  
 ![WhatsApp Image 2024-07-17 at 07 15 53 (3)](https://github.com/user-attachments/assets/7902959a-c1a8-4d5f-b937-772afd5398b9)
 ![WhatsApp Image 2024-07-17 at 07 15 53 (4)](https://github.com/user-attachments/assets/cc038211-e20f-41e4-9caa-4528b6d9762c)
