@@ -7,10 +7,11 @@ This application is a Pronoun Test app designed to help users practice and impro
 * Read: Display the list of existing pronoun questions.*
 * Update: Modify existing questions, including updating images and audio.
 * Delete: Remove questions from the database.
+  
   2. Firebase Integration:
-  * Realtime Database: Stores the questions, including text, image URLs, and audio URLs.
-  * Firebase Auth: Manages user authentication for login and registration.
-  * Firebase Storage: Stores images and audio recordings associated with the questions.
+* Realtime Database: Stores the questions, including text, image URLs, and audio URLs.
+* Firebase Auth: Manages user authentication for login and registration.
+* Firebase Storage: Stores images and audio recordings associated with the questions.
      
 **Technologies Used**
   * Firebase Realtime Database: For storing and retrieving questions and associated data.
